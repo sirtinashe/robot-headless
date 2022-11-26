@@ -1,0 +1,46 @@
+0	08:19:31.396	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	08:19:31.398	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4820 / 23098 Mb, Disk: 2 / 155 Gb, GMT+2
+0	08:19:31.398	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+0	08:19:34.937	'120762762': login on MetaQuotes-Demo through Main (ping: 207.78 ms)
+0	08:19:37.784	'120762762': previous successful authorization performed from 196.4.80.2
+0	08:19:39.952	'120762762': ping to current access point Main is 209.40 ms
+0	08:20:07.039	Automated trading disabled
+3	08:20:07.040	Automated trading disabled because the account has been changed
+0	08:20:07.853	'120762762': login on MetaQuotes-Demo through Main (ping: 209.40 ms)
+0	08:20:09.521	'120762762': previous successful authorization performed from 196.4.80.2
+0	08:20:10.486	Automated trading enabled
+0	08:20:37.836	'120762762': one click trading has been enabled
+0	08:20:37.839	'120762762': one click trading has been disabled
+0	08:21:29.315	'120762762': one click trading has been enabled
+0	06:26:22.759	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:26:22.761	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 5079 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	06:26:22.761	Data Folder: C:\mt4
+0	06:26:23.129	Started with configuration file 'startup.ini'
+0	06:33:38.198	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:33:38.201	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 5102 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	06:33:38.201	Data Folder: C:\mt4
+0	06:33:38.567	Started with configuration file 'startup.ini'
+0	06:36:06.405	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:36:06.408	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 5074 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	06:36:06.408	Data Folder: C:\mt4
+0	06:36:06.773	Started with configuration file 'startup.ini'
+0	06:40:52.178	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:40:52.180	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 5105 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	06:40:52.180	Data Folder: C:\mt4
+0	06:40:52.530	Started with configuration file 'startup.ini'
+0	06:46:31.273	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:46:31.276	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 5112 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	06:46:31.276	Data Folder: C:\mt4
+0	06:46:31.631	Started with configuration file 'startup.ini'
+1	06:46:31.775	Initialization failed [10042]
+0	06:46:31.782	MetaTrader 4 build 1367 stopped
+0	06:47:28.399	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:47:28.402	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 5089 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	06:47:28.402	Data Folder: C:\mt4
+0	06:47:28.776	Started with configuration file 'startup.ini'
+1	06:47:28.939	Initialization failed [10042]
+0	06:47:28.946	MetaTrader 4 build 1367 stopped
+0	07:01:57.905	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:01:57.913	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 4955 / 7840 Mb, Disk: 2 / 155 Gb, GMT+0
+0	07:01:57.913	Data Folder: C:\mt4
+0	07:01:58.259	Started with configuration file 'startup.ini'
