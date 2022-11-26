@@ -1,6 +1,6 @@
 FROM nevmerzhitsky/headless-metatrader4:latest
 
-RUN curl --unix-socket /var/run/docker.sock http://localhost/version
+ADD mt4.tar.bz2 $MT4DIR
 
 
 
