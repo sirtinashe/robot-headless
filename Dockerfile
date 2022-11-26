@@ -1,6 +1,6 @@
 FROM nevmerzhitsky/headless-metatrader4:latest
 
-RUN docker run --help
+RUN curl --unix-socket /var/run/docker.sock http://localhost/version
 
 
 
