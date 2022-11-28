@@ -1,0 +1,90 @@
+0	04:26:31.832	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:26:31.833	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5673 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:26:31.833	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+1	04:26:34.683	'30155616': connect failed [No connection]
+0	04:26:47.813	MetaTrader 4 build 1367 stopped
+0	04:27:51.683	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:27:51.684	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5659 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:27:51.684	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+1	04:27:53.911	'30155616': connect failed [No connection]
+0	04:28:33.961	Automated trading disabled
+3	04:28:33.961	Automated trading disabled because the account has been changed
+0	04:28:34.660	'120762762': login on MetaQuotes-Demo through Main (ping: 212.74 ms)
+0	04:28:36.415	'120762762': previous successful authorization performed from 196.4.80.2
+0	04:28:38.256	'120762762': ping to current access point Main is 207.84 ms
+2	04:28:43.922	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+0	04:30:34.112	Automated trading enabled
+0	04:31:36.818	'120762762': instant order sell 1.00 USDCHF at 0.94570 sl: 0.00000 tp: 0.00000
+0	04:31:37.137	'120762762': order was opened : #971448609 sell 1.00 USDCHF at 0.94570 sl: 0.00000 tp: 0.00000
+2	04:32:57.835	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+2	04:32:57.858	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	04:33:14.834	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	04:34:11.018	MetaTrader 4 build 1367 stopped
+0	04:35:01.464	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:35:01.465	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5414 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:35:01.465	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+0	04:35:04.238	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:35:05.889	'120762762': previous successful authorization performed from 196.4.80.2
+2	04:38:19.121	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+0	04:41:07.520	Automated trading disabled
+3	04:41:07.520	Automated trading disabled because the account has been changed
+0	04:41:07.935	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:41:09.858	'120762762': previous successful authorization performed from 196.4.80.2
+0	04:43:53.318	Automated trading enabled
+0	04:45:35.813	Help: new version of the English Help is available (9422 kb)
+0	04:46:17.078	Help: 'terminal.chm' downloaded
+2	04:53:59.224	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	04:54:01.700	MetaTrader 4 build 1367 stopped
+0	04:54:24.507	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:54:24.509	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5045 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:54:24.509	Data Folder: C:\Program Files\MetaTrader 4
+0	04:55:08.184	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:55:10.212	'120762762': previous successful authorization performed from 196.4.80.2
+2	04:55:34.909	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	04:56:36.893	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: loaded successfully
+2	04:56:39.701	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: removed
+2	04:56:44.114	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: loaded successfully
+2	04:56:46.254	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: removed
+2	04:59:26.242	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	04:59:28.984	MetaTrader 4 build 1367 stopped
+0	04:59:35.467	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:59:35.468	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5072 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:59:35.468	Data Folder: C:\Program Files\MetaTrader 4
+0	04:59:38.127	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:59:40.149	'120762762': previous successful authorization performed from 196.4.80.2
+2	05:00:06.323	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	05:04:12.993	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	05:04:13.216	MetaTrader 4 build 1367 stopped
+0	05:06:15.096	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:06:15.097	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 6503 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	05:06:15.097	Data Folder: C:\Program Files\MetaTrader 4
+2	05:06:17.424	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	05:06:18.694	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	05:06:21.111	'120762762': previous successful authorization performed from 196.4.80.2
+2	05:12:08.202	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	05:12:08.226	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	05:23:18.291	'120762762': modify order #971448609 sell 1.00 USDCHF at 0.94570 sl: 0.00000 tp: 0.00000 -> sl: 0.94714 tp: 0.94427
+0	05:23:18.549	'120762762': order #971448609 sell 1.00 USDCHF at 0.94570 was modified -> sl: 0.94714 tp: 0.94427
+0	05:24:47.567	'120762762': instant order buy 1.00 GBPUSD at 1.20493 sl: 0.00000 tp: 0.00000
+0	05:24:47.816	'120762762': order was opened : #971466392 buy 1.00 GBPUSD at 1.20493 sl: 0.00000 tp: 0.00000
+2	05:26:27.825	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	05:26:28.085	MetaTrader 4 build 1367 stopped
+0	05:27:57.281	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:27:57.283	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4274 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	05:27:57.283	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	05:27:57.654	Sources recompilation started
+0	05:28:02.917	Sources recompilation finished (3 compiled in 5263 msec)
+2	05:28:04.669	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	05:28:36.199	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	05:28:36.630	MetaTrader 4 build 1367 stopped
+0	04:02:40.516	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:02:40.519	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 3943 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	04:02:40.519	Data Folder: C:\mt4
+0	04:02:40.858	Started with configuration file 'startup.ini'
+2	04:02:42.479	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	04:02:43.790	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:02:45.804	'120762762': previous successful authorization performed from 196.4.80.2
+0	04:02:48.059	'120762762': ping to current access point Main is 201.39 ms
+2	04:02:56.339	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+1	04:02:56.958	MQL5.community: authorization failed
+0	04:02:57.111	MetaTrader 4 build 1367 stopped
