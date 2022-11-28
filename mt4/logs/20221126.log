@@ -1,0 +1,59 @@
+0	08:19:31.396	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	08:19:31.398	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4820 / 23098 Mb, Disk: 2 / 155 Gb, GMT+2
+0	08:19:31.398	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+0	08:19:34.937	'120762762': login on MetaQuotes-Demo through Main (ping: 207.78 ms)
+0	08:19:37.784	'120762762': previous successful authorization performed from 196.4.80.2
+0	08:19:39.952	'120762762': ping to current access point Main is 209.40 ms
+0	08:20:07.039	Automated trading disabled
+3	08:20:07.040	Automated trading disabled because the account has been changed
+0	08:20:07.853	'120762762': login on MetaQuotes-Demo through Main (ping: 209.40 ms)
+0	08:20:09.521	'120762762': previous successful authorization performed from 196.4.80.2
+0	08:20:10.486	Automated trading enabled
+0	08:20:37.836	'120762762': one click trading has been enabled
+0	08:20:37.839	'120762762': one click trading has been disabled
+0	08:21:29.315	'120762762': one click trading has been enabled
+0	08:24:59.811	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	08:24:59.813	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5026 / 23098 Mb, Disk: 2 / 155 Gb, GMT+2
+0	08:24:59.813	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+0	11:12:34.563	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	11:12:34.565	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3152 / 23098 Mb, Disk: 1 / 155 Gb, GMT+2
+0	11:12:34.565	Data Folder: C:\Program Files\MetaTrader 4
+0	11:17:11.572	MetaTrader 4 build 1367 stopped
+0	18:31:07.950	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	18:31:07.951	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3549 / 23098 Mb, Disk: 1 / 155 Gb, GMT+2
+0	18:31:07.951	Data Folder: C:\Program Files\MetaTrader 4
+2	18:31:10.538	Script sample2\sample2 USDCHF,H1: loaded successfully
+2	18:31:10.607	Script sample2 USDCHF,H1: removed
+2	18:31:26.093	Script sample2\sample2 EURAUD,H1: loaded successfully
+2	18:31:26.115	Script sample2 EURAUD,H1: removed
+1	18:32:50.704	MQL Base: failed connect to server
+1	18:32:50.704	MQL5.community: authorization failed
+0	18:35:41.460	Sources recompilation started
+2	18:35:44.237	Expert sample3\sample3 USDCHF,H1: loaded successfully
+1	18:37:54.831	MQL5.community: authorization failed
+2	18:39:12.816	Expert sample3 USDCHF,H1: removed
+0	19:24:17.842	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	19:24:17.844	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5594 / 23098 Mb, Disk: 1 / 155 Gb, GMT+2
+0	19:24:17.844	Data Folder: C:\Program Files\MetaTrader 4
+0	22:53:28.171	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	22:53:28.172	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3828 / 23098 Mb, Disk: 1 / 155 Gb, GMT+2
+0	22:53:28.172	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+0	22:53:28.447	Sources recompilation started
+0	22:53:30.922	Sources recompilation finished (2 compiled in 2476 msec)
+0	22:54:28.244	'120762762': login on MetaQuotes-Demo through Main (ping: 209.40 ms)
+0	22:54:30.703	'120762762': previous successful authorization performed from 196.4.80.2
+0	22:54:36.030	'120762762': ping to current access point Main is 212.74 ms
+2	22:54:47.765	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURAUD,H1: loaded successfully
+2	23:15:24.606	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURAUD,H1: removed
+2	23:15:28.683	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+0	23:20:46.609	'120762762': login on MetaQuotes-Demo through Main (ping: 212.74 ms)
+0	23:20:49.554	'120762762': previous successful authorization performed from 196.4.80.2
+2	23:44:08.023	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	23:44:08.384	MetaTrader 4 build 1367 stopped
+0	23:46:05.315	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	23:46:05.316	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3399 / 23098 Mb, Disk: 1 / 155 Gb, GMT+2
+0	23:46:05.316	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+2	23:46:07.294	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+1	23:47:28.346	'30155616': connect failed [No connection]
+2	23:47:46.524	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	23:47:46.922	MetaTrader 4 build 1367 stopped

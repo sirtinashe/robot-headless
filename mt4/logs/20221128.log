@@ -1,0 +1,388 @@
+0	04:26:31.832	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:26:31.833	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5673 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:26:31.833	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+1	04:26:34.683	'30155616': connect failed [No connection]
+0	04:26:47.813	MetaTrader 4 build 1367 stopped
+0	04:27:51.683	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:27:51.684	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5659 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:27:51.684	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+1	04:27:53.911	'30155616': connect failed [No connection]
+0	04:28:33.961	Automated trading disabled
+3	04:28:33.961	Automated trading disabled because the account has been changed
+0	04:28:34.660	'120762762': login on MetaQuotes-Demo through Main (ping: 212.74 ms)
+0	04:28:36.415	'120762762': previous successful authorization performed from 196.4.80.2
+0	04:28:38.256	'120762762': ping to current access point Main is 207.84 ms
+2	04:28:43.922	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+0	04:30:34.112	Automated trading enabled
+0	04:31:36.818	'120762762': instant order sell 1.00 USDCHF at 0.94570 sl: 0.00000 tp: 0.00000
+0	04:31:37.137	'120762762': order was opened : #971448609 sell 1.00 USDCHF at 0.94570 sl: 0.00000 tp: 0.00000
+2	04:32:57.835	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+2	04:32:57.858	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	04:33:14.834	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	04:34:11.018	MetaTrader 4 build 1367 stopped
+0	04:35:01.464	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:35:01.465	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5414 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:35:01.465	Data Folder: Z:\home\tinashe\.mt4\drive_c\Program Files\MetaTrader 4
+0	04:35:04.238	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:35:05.889	'120762762': previous successful authorization performed from 196.4.80.2
+2	04:38:19.121	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+0	04:41:07.520	Automated trading disabled
+3	04:41:07.520	Automated trading disabled because the account has been changed
+0	04:41:07.935	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:41:09.858	'120762762': previous successful authorization performed from 196.4.80.2
+0	04:43:53.318	Automated trading enabled
+0	04:45:35.813	Help: new version of the English Help is available (9422 kb)
+0	04:46:17.078	Help: 'terminal.chm' downloaded
+2	04:53:59.224	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	04:54:01.700	MetaTrader 4 build 1367 stopped
+0	04:54:24.507	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:54:24.509	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5045 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:54:24.509	Data Folder: C:\Program Files\MetaTrader 4
+0	04:55:08.184	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:55:10.212	'120762762': previous successful authorization performed from 196.4.80.2
+2	04:55:34.909	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	04:56:36.893	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: loaded successfully
+2	04:56:39.701	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: removed
+2	04:56:44.114	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: loaded successfully
+2	04:56:46.254	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCAD,H1: removed
+2	04:59:26.242	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	04:59:28.984	MetaTrader 4 build 1367 stopped
+0	04:59:35.467	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:59:35.468	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 5072 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	04:59:35.468	Data Folder: C:\Program Files\MetaTrader 4
+0	04:59:38.127	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	04:59:40.149	'120762762': previous successful authorization performed from 196.4.80.2
+2	05:00:06.323	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	05:04:12.993	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	05:04:13.216	MetaTrader 4 build 1367 stopped
+0	05:06:15.096	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:06:15.097	Microsoft Windows 10 x86, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 6503 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	05:06:15.097	Data Folder: C:\Program Files\MetaTrader 4
+2	05:06:17.424	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	05:06:18.694	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	05:06:21.111	'120762762': previous successful authorization performed from 196.4.80.2
+2	05:12:08.202	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	05:12:08.226	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	05:23:18.291	'120762762': modify order #971448609 sell 1.00 USDCHF at 0.94570 sl: 0.00000 tp: 0.00000 -> sl: 0.94714 tp: 0.94427
+0	05:23:18.549	'120762762': order #971448609 sell 1.00 USDCHF at 0.94570 was modified -> sl: 0.94714 tp: 0.94427
+0	05:24:47.567	'120762762': instant order buy 1.00 GBPUSD at 1.20493 sl: 0.00000 tp: 0.00000
+0	05:24:47.816	'120762762': order was opened : #971466392 buy 1.00 GBPUSD at 1.20493 sl: 0.00000 tp: 0.00000
+2	05:26:27.825	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	05:26:28.085	MetaTrader 4 build 1367 stopped
+0	05:27:57.281	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:27:57.283	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4274 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	05:27:57.283	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	05:27:57.654	Sources recompilation started
+0	05:28:02.917	Sources recompilation finished (3 compiled in 5263 msec)
+2	05:28:04.669	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	05:28:36.199	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	05:28:36.630	MetaTrader 4 build 1367 stopped
+0	06:30:49.327	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:30:49.328	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3722 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:30:49.328	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	06:30:50.984	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	06:31:23.057	'120762762': login on MetaQuotes-Demo through Main (ping: 207.84 ms)
+0	06:31:24.754	'120762762': previous successful authorization performed from 20.79.97.177
+2	06:31:25.401	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	06:31:26.577	'120762762': ping to current access point Main is 209.34 ms
+0	06:33:04.378	Automated trading disabled
+3	06:33:04.380	Automated trading disabled because the account has been changed
+0	06:33:04.816	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:33:06.752	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:34:18.829	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:34:41.968	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:34:46.978	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:35:01.533	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:35:07.032	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:35:10.942	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	06:35:43.013	MetaTrader 4 build 1367 stopped
+0	06:35:57.103	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:35:57.104	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3747 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:35:57.104	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	06:35:57.393	Sources recompilation started
+0	06:36:00.181	Sources recompilation finished (1 compiled in 2788 msec)
+0	06:36:02.511	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:36:04.149	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:36:13.350	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:36:16.736	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:36:34.916	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:36:38.944	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	06:36:46.900	MetaTrader 4 build 1367 stopped
+0	06:38:37.422	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:38:37.424	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3727 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:38:37.424	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	06:38:37.709	Sources recompilation started
+0	06:38:40.266	Sources recompilation finished (1 compiled in 2557 msec)
+0	06:38:42.663	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:38:44.314	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:38:49.533	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:38:53.429	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	06:38:59.262	MetaTrader 4 build 1367 stopped
+0	06:40:32.352	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:40:32.353	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3714 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:40:32.353	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	06:40:32.641	Sources recompilation started
+0	06:40:35.198	Sources recompilation finished (1 compiled in 2558 msec)
+0	06:40:37.641	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:40:39.386	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:40:44.232	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	06:41:13.459	Automated trading enabled
+2	06:42:07.239	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:42:07.257	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:42:10.009	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:42:39.180	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:42:42.113	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:42:46.874	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:42:50.235	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:43:09.169	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:43:33.081	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	06:43:33.346	MetaTrader 4 build 1367 stopped
+0	06:43:49.717	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:43:49.719	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3817 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:43:49.719	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	06:43:51.442	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	06:43:52.534	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:43:54.321	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:43:54.805	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:44:03.575	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:44:07.439	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:44:15.149	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:44:17.935	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:44:22.355	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:44:24.577	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:44:35.822	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:45:32.001	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+0	06:45:32.261	MetaTrader 4 build 1367 stopped
+0	06:45:42.329	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:45:42.330	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3815 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:45:42.330	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	06:45:43.924	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+0	06:45:45.168	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:45:47.477	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:45:47.911	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:46:27.974	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:46:30.213	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:46:47.199	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 AUDUSD,M5: loaded successfully
+2	06:46:59.986	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: loaded successfully
+2	06:47:01.790	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURJPY,H1: removed
+2	06:47:57.751	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 AUDUSD,M5: removed
+2	06:47:57.791	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 AUDUSD,M5: loaded successfully
+2	06:48:00.342	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 AUDUSD,M5: removed
+2	06:48:24.289	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	06:48:26.834	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+2	06:49:14.525	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	06:50:19.269	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+0	06:50:20.327	MetaTrader 4 build 1367 stopped
+0	06:50:32.556	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:50:32.557	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3802 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:50:32.557	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	06:50:34.161	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+0	06:50:35.375	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:50:37.577	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:50:38.120	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+2	06:50:55.719	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	06:50:58.360	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+2	06:51:03.981	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: loaded successfully
+2	06:51:06.900	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,H1: removed
+2	06:51:22.819	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,M1: loaded successfully
+2	06:51:57.400	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,M1: removed
+0	06:51:57.637	MetaTrader 4 build 1367 stopped
+0	06:57:54.460	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:57:54.462	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3763 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:57:54.462	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	06:57:56.127	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,M1: loaded successfully
+0	06:57:57.344	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:58:00.069	'120762762': previous successful authorization performed from 196.4.80.2
+2	06:58:01.063	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDCHF,M1: removed
+0	06:58:56.691	MetaTrader 4 build 1367 stopped
+0	06:59:13.789	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	06:59:13.790	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3788 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	06:59:13.790	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	06:59:17.030	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	06:59:19.124	'120762762': previous successful authorization performed from 196.4.80.2
+0	06:59:27.243	MetaTrader 4 build 1367 stopped
+0	04:59:51.995	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	04:59:51.997	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 3839 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	04:59:51.997	Data Folder: C:\mt4
+0	04:59:52.414	Started with configuration file 'startup.ini'
+0	04:59:55.559	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	04:59:57.404	'120762762': previous successful authorization performed from 196.4.80.2
+2	05:00:09.780	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURUSD,H1: loaded successfully
+2	05:00:21.920	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 EURUSD,H1: removed
+1	05:00:22.956	MQL5.community: authorization failed
+0	05:00:22.981	MetaTrader 4 build 1367 stopped
+0	05:00:39.041	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:00:39.044	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 3824 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	05:00:39.044	Data Folder: C:\mt4
+0	05:00:39.470	Started with configuration file 'startup.ini'
+0	05:00:42.529	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	05:00:45.146	'120762762': previous successful authorization performed from 196.4.80.2
+1	05:01:34.592	MQL5.community: authorization failed
+0	05:01:34.657	MetaTrader 4 build 1367 stopped
+0	05:01:47.936	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:01:47.938	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 3817 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	05:01:47.938	Data Folder: C:\mt4
+0	05:01:48.369	Started with configuration file 'startup.ini'
+0	05:01:51.540	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	05:01:53.520	'120762762': previous successful authorization performed from 196.4.80.2
+2	05:02:19.433	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+2	05:03:27.596	Expert DWX_ZeroMQ_Connector_v2_0_1_RC8 USDCHF,H1: loaded successfully
+2	05:03:51.916	Expert DWX_ZeroMQ_Connector_v2_0_1_RC8 USDCHF,H1: removed
+2	05:04:06.561	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+0	05:04:06.832	MetaTrader 4 build 1367 stopped
+0	05:04:23.163	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:04:23.165	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 4594 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	05:04:23.165	Data Folder: C:\mt4
+0	05:04:23.573	Started with configuration file 'startup.ini'
+0	05:08:30.220	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:08:30.223	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 4598 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	05:08:30.223	Data Folder: C:\mt4
+0	05:08:30.630	Started with configuration file 'startup.ini'
+0	05:10:28.940	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	05:10:28.942	Microsoft Windows 7 x86, IE 11, 4 x Intel Pentium 4  2.40GHz, Memory: 4590 / 7840 Mb, Disk: 0 / 155 Gb, GMT+0
+0	05:10:28.942	Data Folder: C:\mt4
+0	05:10:29.335	Started with configuration file 'startup.ini'
+0	05:10:32.878	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	05:10:34.991	'120762762': previous successful authorization performed from 196.4.80.2
+1	05:10:45.511	MQL5.community: authorization failed
+0	05:10:45.540	MetaTrader 4 build 1367 stopped
+0	07:13:51.608	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:13:51.609	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4561 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:13:51.610	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	07:14:38.571	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:14:40.759	'120762762': previous successful authorization performed from 196.4.80.2
+2	07:14:55.427	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDJPY,H1: loaded successfully
+2	07:15:56.029	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDJPY,H1: removed
+0	07:15:56.500	MetaTrader 4 build 1367 stopped
+0	07:16:52.641	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:16:52.642	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3918 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:16:52.642	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	07:16:54.201	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDJPY,H1: loaded successfully
+0	07:16:55.362	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:16:57.570	'120762762': previous successful authorization performed from 196.4.80.2
+2	07:17:18.788	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDJPY,H1: removed
+0	07:17:19.214	MetaTrader 4 build 1367 stopped
+0	07:17:35.126	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:17:35.127	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3914 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:17:35.127	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	07:17:36.736	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDJPY,H1: loaded successfully
+0	07:17:37.966	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:17:40.272	'120762762': previous successful authorization performed from 196.4.80.2
+2	07:17:40.770	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 USDJPY,H1: removed
+0	07:17:46.400	MetaTrader 4 build 1367 stopped
+0	07:18:38.244	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:18:38.245	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3912 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:18:38.245	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	07:18:41.045	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:18:43.357	'120762762': previous successful authorization performed from 196.4.80.2
+2	07:23:01.262	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+2	07:23:22.212	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+2	07:23:27.303	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+2	07:26:13.565	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+0	07:26:13.885	MetaTrader 4 build 1367 stopped
+0	07:26:52.401	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:26:52.402	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3859 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:26:52.402	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	07:26:54.124	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+0	07:26:55.392	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:26:59.096	'120762762': previous successful authorization performed from 196.4.80.2
+2	07:26:59.746	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+2	07:27:27.458	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+2	07:27:52.062	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+0	07:27:52.291	MetaTrader 4 build 1367 stopped
+0	07:28:02.440	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:28:02.441	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3860 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:28:02.441	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	07:28:04.213	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+0	07:28:05.501	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:28:07.812	'120762762': previous successful authorization performed from 196.4.80.2
+2	07:28:08.329	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+0	07:28:25.419	MetaTrader 4 build 1367 stopped
+0	07:28:59.200	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	07:28:59.201	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3872 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	07:28:59.201	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	07:29:02.844	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	07:29:05.672	'120762762': previous successful authorization performed from 196.4.80.2
+0	07:29:10.305	MetaTrader 4 build 1367 stopped
+0	14:08:30.774	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:08:30.779	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4902 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:08:30.779	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+0	14:08:33.533	'120762762': login on MetaQuotes-Demo through Main (ping: 209.34 ms)
+0	14:08:39.443	'120762762': previous successful authorization performed from 196.4.80.2
+0	14:08:46.595	'120762762': ping to current access point Main is 285.34 ms
+2	14:09:34.393	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+2	14:10:13.087	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+0	14:10:13.299	MetaTrader 4 build 1367 stopped
+0	14:10:25.968	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:10:25.969	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4889 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:10:25.969	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:10:27.664	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+0	14:10:30.239	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:10:49.171	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:12:55.511	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+0	14:12:55.752	MetaTrader 4 build 1367 stopped
+0	14:13:25.771	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:13:25.772	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4392 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:13:25.772	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:13:27.356	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+0	14:13:28.589	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:13:32.326	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:13:33.468	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+2	14:15:21.919	Expert Moving Average GBPJPY,H1: loaded successfully
+2	14:15:49.958	Expert Moving Average GBPJPY,H1: removed
+0	14:15:50.235	MetaTrader 4 build 1367 stopped
+0	14:16:05.507	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:16:05.508	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4136 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:16:05.508	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:16:07.157	Expert Moving Average GBPJPY,H1: loaded successfully
+0	14:16:08.500	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:16:16.893	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:16:24.073	Expert Moving Average GBPJPY,H1: removed
+1	14:16:31.987	MQL5.community: authorization failed
+0	14:16:32.001	MetaTrader 4 build 1367 stopped
+0	14:16:32.602	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:16:32.603	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4124 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:16:32.603	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:16:35.058	Expert Moving Average GBPJPY,H1: loaded successfully
+0	14:16:37.552	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:16:45.523	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:16:54.112	Expert Moving Average GBPJPY,H1: removed
+0	14:16:54.726	MetaTrader 4 build 1367 stopped
+0	14:17:15.956	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:17:15.957	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4097 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:17:15.957	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:17:17.793	Expert Moving Average GBPJPY,H1: loaded successfully
+0	14:17:19.768	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:17:29.573	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:18:02.197	Expert Moving Average GBPJPY,H1: removed
+0	14:18:02.457	MetaTrader 4 build 1367 stopped
+0	14:18:11.060	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:18:11.061	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4102 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:18:11.061	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:18:12.875	Expert Moving Average GBPJPY,H1: loaded successfully
+0	14:18:15.599	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:18:23.998	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:18:35.690	Expert Moving Average GBPJPY,H1: removed
+1	14:19:10.781	MQL Base: failed connect to server
+0	14:19:10.825	MetaTrader 4 build 1367 stopped
+0	14:30:03.902	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	14:30:03.903	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 4110 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	14:30:03.903	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	14:30:05.435	Expert Moving Average GBPJPY,H1: loaded successfully
+0	14:30:07.594	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	14:30:10.443	'120762762': previous successful authorization performed from 196.4.80.2
+2	14:30:13.796	Expert Moving Average GBPJPY,H1: removed
+2	14:30:13.830	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+2	14:30:45.758	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+1	14:31:12.688	MQL Base: failed connect to server
+0	14:31:12.742	MetaTrader 4 build 1367 stopped
+0	17:17:35.012	MetaTrader 4 build 1367 started (MetaQuotes Software Corp.)
+0	17:17:35.013	Microsoft Windows 7 x64, IE 11, 4 x Intel Core i5-6200U  @ 2.30GHz, Memory: 3866 / 23098 Mb, Disk: 0 / 155 Gb, GMT+2
+0	17:17:35.013	Data Folder: Z:\home\tinashe\Documents\15_october_2022\mt5-headless\mt4
+2	17:17:38.687	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: loaded successfully
+0	17:17:47.459	'120762762': login on MetaQuotes-Demo through Main (ping: 285.34 ms)
+0	17:17:50.750	'120762762': previous successful authorization performed from 196.4.80.2
+0	17:18:02.512	'120762762': ping to current access point Main is 199.27 ms
+2	17:18:10.899	Expert DWX_ZeroMQ_Server_v2.0.1_RC8 GBPJPY,H1: removed
+1	17:18:32.568	MQL Base: failed connect to server
+0	17:18:32.587	MetaTrader 4 build 1367 stopped
