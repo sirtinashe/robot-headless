@@ -2,7 +2,9 @@ FROM nevmerzhitsky/headless-metatrader4:latest
 
 ADD mt4.tar.bz2 $MT4DIR
 
-
+EXPOSE 32768
+EXPOSE 32769
+EXPOSE 32770
 
 
 
