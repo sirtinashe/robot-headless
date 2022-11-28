@@ -1,8 +1,8 @@
 <chart>
-id=133138727880605191
+id=133140768754187392
 symbol=EURUSD
 period=60
-leftpos=1334
+leftpos=1313
 digits=5
 scale=2
 graph=0
@@ -19,10 +19,10 @@ days=0
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=88
-window_top=88
+window_left=22
+window_top=22
 window_right=1575
-window_bottom=587
+window_bottom=413
 window_type=1
 background_color=0
 foreground_color=16777215
